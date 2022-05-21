@@ -1,0 +1,159 @@
+
+.navbar-nav li {
+    padding-right: 20px;
+}
+.nav-link{
+    font-size: 1.1em;
+    font-family: serif;
+    
+}
+.bger{
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar{
+    
+    background-color: black;
+    
+}
+.header{
+    
+    background-color: black;
+}
+.main{
+    position: relative;
+}
+.txt  {
+    position: absolute;
+    padding-top: 13%;
+    padding-left: 7%;
+}
+.p12 {
+    font-size: 3em;
+    color: white;
+    font-family: serif;
+    
+
+}
+.span1 {
+    
+    color: rgb(172, 172, 172);
+    font-family: serif;
+}
+.btn1{
+    padding-top: 30%;
+    padding-left: 7%;
+    position: absolute;
+}
+.btn{
+    color: white;
+}
+.dw{
+    background-image: url(img/image1.png);
+    height: 829px;
+}
+.dw1{
+    background-image: url(img/О_компании.jpeg);
+    height: 360px;
+    
+}
+.kj{
+    background-image: url(img/baner.webp);
+    height: 550px;
+    width: 1600px;
+    
+}
+.opl{
+    background-color: black;
+    border-radius: 5px;
+    opacity: 80%;
+}
+.model1{
+    font-family: serif;
+}
+.es1{
+    background-color: black;
+    color: white;
+}
+.es:hover{
+background-color: rgb(192, 192, 192);
+color: white;
+}
+.es1:hover{
+    background-color: black;
+    color: white;
+}
+.hiol:hover{
+opacity: 50%;
+}
+
+.ulf{
+    list-style: none;
+}
+.ulf .li-hover{
+    
+    width: 30px;
+    height: 30px; 
+    padding-left: 15%;
+    margin-right: 7%;
+    
+}
+
+
+.li-hover>*:hover{
+    color: rgb(11, 218, 255);
+}
+
+a,a:active,a:visited{
+    color:black
+}
+.koli:hover{
+    fill: white;
+}
+.halo{
+width: 126px;
+height: 126px;
+}
+.halo1{
+    width: 176px;
+    height: 176px;
+    }
+    .grayr{
+        color: gray;
+        font-size: 14px;
+    }
+    .iom{
+        background-color: black;
+    }
+
+    .body1 {
+        font-family: 'Lato', sans-serif;
+        background-color: rgb(0, 0, 0);
+    }
+    
+    h1 {
+        margin-bottom: 40px;
+    }
+    
+    label {
+        color: #333;
+    }
+    
+    .btn-send {
+        font-weight: 300;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+        width: 80%;
+        margin-left: 3px;
+        }
+    .help-block.with-errors {
+        color: #ff5050;
+        margin-top: 5px;
+    
+    }
+    
+    .card{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
